@@ -1,0 +1,12 @@
+
+
+Convolution 2D
+
+http://www.songho.ca/dsp/convolution/convolution.html
+https://github.com/scotthellman/pyopencl_convolution
+http://reikna.publicfields.net/en/latest/
+
+http://stackoverflow.com/questions/23259891/opencl-on-xeon-phi-2d-convolution-experience-opencl-vs-openmp
+https://github.com/gmendonca/parallel-2D-convolution
+https://github.com/dealias/fftwpp
+http://www.cmsoft.com.br/opencl-tutorial/case-study-high-performance-convolution-using-opencl-__local-memory/
